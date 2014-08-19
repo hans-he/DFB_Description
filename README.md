@@ -3,7 +3,7 @@ DFB_Description
 
 showing the drawing flags and blitting flags in DirectFB1.4.
 
-A simple program in processing.
+A simple program in processing-1.5.1.
 
 Drawing flags
  DSDRAW_NOFX                  uses none of the effects
